@@ -1,0 +1,21 @@
+#logo {
+    margin-left:570px;
+}
+
+body {
+    background-color:#696969;
+}
+
+.navbar-default{
+   width:100%;
+}
+
+.active {
+    background-color:red;
+}
+
+#welcome{
+  text-align:center;
+  margin-top:50px; 
+  color:white;
+}
